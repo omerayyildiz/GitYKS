@@ -37,7 +37,9 @@ _1.Gün,140 Soru, 15 Yanlış, 125 Net vb._***
 oayyildiz416@gmail.com mail adresimden ya da [GitHub Issues](https://github.com/omerayyildiz/GitYKS/issues) sayfasından bana proje hakkında sorular sorabilirsiniz.
 
 **İyi Çalışmalar Dİlerim.**
+
 _Başarılar..._
 
 Ömer Ayyıldız
+
 Progremci
