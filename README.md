@@ -1,7 +1,6 @@
 # GitYKS
 ## **Ders Takip Ve Motivasyon Projesi**
 ![Image of Collacats](https://octodex.github.com/images/collabocats.jpg)
-
 ## GitYKS Nedir?
 
 GitYKS, 2020 yılında olacak olan YKS yani universiteye geçiş sınavına yönelik hazırlanan bir ders takip ve motivasyon aracıdır.
@@ -20,11 +19,11 @@ _Yazılım sadece kod yazmaktan ibaret değildir. Yaşamı ve benzeri her şeyi 
 
 ## Projeye Nasıl Adım Atabilirsiniz?
    
-*Projeyi kendi bilgisayarınıza klonlayıp gün gün git sistemi üzerinden raporları girerek.
+* Projeyi kendi bilgisayarınıza klonlayıp gün gün git sistemi üzerinden raporları girerek.
 
-*Issues sayfasından herhangi bir soru sorarak veya bir paylaşımda bulunarak.
+* Issues sayfasından herhangi bir soru sorarak veya bir paylaşımda bulunarak.
 
-*Projeyi kendi GitHub sayfanıza forklayarak.
+* Projeyi kendi GitHub sayfanıza forklayarak.
 
 ## Yapmanız Gerekenler?
    
@@ -41,5 +40,3 @@ oayyildiz416@gmail.com mail adresimden ya da [GitHub Issues](https://github.com/
 _Başarılar..._
 
 Ömer Ayyıldız
-
-Progremci
